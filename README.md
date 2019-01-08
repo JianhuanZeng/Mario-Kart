@@ -1,4 +1,5 @@
 # Self-driving-Mario-Kart-AI
+
 • We develop a self-driving Mario Kart AI with drifting and using items and won Idol Award.<br/>
 • The self-driving Mario Kart AI consist of two parts: the driving AI of steering and drifting control and the
 item-using AI.<br/>
@@ -9,4 +10,7 @@ Tree, Kart detection by Yolo and rule-based AI strategy. https://youtu.be/YtORFe
 For more detailed, see https://github.com/JianhuanZeng/Self-driving-Mario-Kart-AI/blob/master/SELF-DRIVE%20MARIO%20KART%20AI.pdf
 
 # Result
-see https://youtu.be/YtORFeG191s
+
+see video https://youtu.be/YtORFeG191s<br/>
+see poster https://github.com/JianhuanZeng/Self-driving-Mario-Kart-AI/blob/master/Mario%20Kart%20Poster.pdf<br/>
+see paper https://github.com/JianhuanZeng/Self-driving-Mario-Kart-AI/blob/master/SELF-DRIVE%20MARIO%20KART%20AI.pdf
