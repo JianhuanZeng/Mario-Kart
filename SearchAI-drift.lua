@@ -132,10 +132,10 @@ function eval_actions(actions, actions_history, drifts, drifts_history)
   local end_progress = util.readProgress()
 
   if end_progress > start_progress then
-    -- ==================================================== --
+    -- ============================================================= --
     print("v:",util.readVelocity())
 
-    -- ==================================================== --
+    -- ============================================================= --
     return PROGRESS_WEIGHT * util.readProgress() + VELOCITY_WEIGHT * util.readVelocity() - BENDING_ENERGY_WEIGHT * bending_energy
   else
     return PROGRESS_WEIGHT * (util.readProgress() - 3)
