@@ -7,6 +7,8 @@ item-using AI.<br/>
 a Search AI instead of imitation learning. The item-using AI includes 3 parts: item detection by Decision
 Tree, Kart detection by Yolo and rule-based AI strategy. https://youtu.be/YtORFeG191s<br/>
 
+Note: The code version is not the newest<br/>
+
 For more detailed, see https://github.com/JianhuanZeng/Self-driving-Mario-Kart-AI/blob/master/SELF-DRIVE%20MARIO%20KART%20AI.pdf
 
 # Result
