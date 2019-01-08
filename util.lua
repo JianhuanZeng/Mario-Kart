@@ -61,7 +61,7 @@ end
 
 --util.CHARACTER = 0x0DC53B
 --function util.readCharacter()
---  return mainmemory.read_u8(util.CHARACTER)
+--return mainmemory.read_u8(util.CHARACTER)
 --end
 
 util.ITEM = 0x165F5B
